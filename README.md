@@ -8,6 +8,9 @@ This project is an API built with Rails in order to solidify my knowledge and un
 - Postman for testing requests
 - Faker Gem for generating content
 
+### Awesome tutorial 
+[Link to Youtube Video](https://www.youtube.com/watch?v=QojnRc7SS9o)
+
 ### JSON data
 ![screen shot](https://github.com/MillyCodes/RubyRailsAPI/blob/master/public/get_screen.png?raw=true)
 
